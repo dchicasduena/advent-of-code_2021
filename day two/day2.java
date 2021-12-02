@@ -7,7 +7,6 @@ class Main
 {
     public static void main(String[] args)
     {
-        // part one
         int depth = 0;
         int hor_pos = 0; 
         int result = 0;
@@ -23,7 +22,7 @@ class Main
             {
                 value = Integer.parseInt(line.replaceAll("[^0-9]",""));
                 check = line.charAt(0);
-                
+
                 if (check == 'f'){
                     hor_pos = hor_pos + value;
                     depth = depth + (value * aim);
