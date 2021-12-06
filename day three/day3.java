@@ -11,7 +11,6 @@ class Main
         String next = null;
         String line = null;
         ArrayList <String> numbers = new ArrayList<String>();
-
         try
         {
             FileReader fileReader = new FileReader("input.txt");
