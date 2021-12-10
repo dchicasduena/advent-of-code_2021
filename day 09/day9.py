@@ -27,7 +27,7 @@ def part1(input):
 
     print("part 1 =", total)
 
-print("\nadvent of code day 8\n")
+print("\nadvent of code day 9\n")
 
 # setup matrix
 input = open('input.txt','r').read().split()
