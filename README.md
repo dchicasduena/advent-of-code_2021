@@ -1,6 +1,6 @@
 # advent-of-code_2021
 no longer active (archived aoc 21)
-aoc 2021 baby  
+
 
 ```
 .      *    *           *.       *   .                      *     .
